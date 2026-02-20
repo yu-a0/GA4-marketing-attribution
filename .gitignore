@@ -11,3 +11,4 @@ __pycache__/
 *.csv
 build-db.py
 visualization.py
+viz.py
