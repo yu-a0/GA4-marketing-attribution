@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+.venv/
+__pycache__/
+
+# Ignore the actual database file (usually too large/private for GitHub)
+*.db
+*.sqlite
+*.sqbpro
+
+# Ignore CSV
+*.csv
+build-db.py
