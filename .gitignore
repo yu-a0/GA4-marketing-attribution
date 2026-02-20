@@ -10,3 +10,4 @@ __pycache__/
 # Ignore CSV
 *.csv
 build-db.py
+visualization.py

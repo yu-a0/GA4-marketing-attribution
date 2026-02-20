@@ -3,9 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 1. Paths (Keep using absolute paths to avoid the "no such table" error)
-DB_PATH = r"C:\Users\yuars\Documents\Yusuf-stuff\Technical-Projects\6-marketing-attribution\marketing_attribution.db"
-SQL_FILE_PATH = r"C:\Users\yuars\Documents\Yusuf-stuff\Technical-Projects\6-marketing-attribution\sql-queries\ceo-view.sql"
-SAVE_PATH = r"C:\Users\yuars\Documents\Yusuf-stuff\Technical-Projects\6-marketing-attribution\final_attribution_report.png"
+DB_PATH = "darabaseName.db"
+SQL_FILE_PATH = "queryFile.sql"
+SAVE_PATH = "final_attribution_report.png"
 
 # 2. Read and Execute
 with open(SQL_FILE_PATH, 'r') as f:

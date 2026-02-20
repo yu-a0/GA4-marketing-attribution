@@ -15,7 +15,7 @@ Processed 47,000+ rows of event data, and compared three distinct models (first 
 | File Name | Description |
 | :-- | :-- |
 | `build_db.py` | Python script to build the database |
-| `visualization.py` | Python script to visualize the data |
+| `visualize.py` | Python script to visualize the data |
 | `sql-queries` | All SQL queries used to process the data |
 | `final_attribution_report.png` | Visualized data |
 
